@@ -5,7 +5,7 @@
 ## Программа «Bib-eLib» для сбора и обработки библиографических данных на русском языке из электронной библиотеки eLibrary
 Программа «Bib-eLib» позволяет осуществлять выгрузку массива данных о научных публикациях через API электронной библиотеки eLibrary, проводить их предварительную обработку, решать проблему дизамбигуации авторов публикаций, проводить анализ итогового массива данных и осуществлять их визуализацию и создавать сеть связей между научными публикациями и их авторами в формате для дальнейшей обработки в программе Pajek.
 
-Программа написана на языке программирования Python и включает архив файлов формата Jupyter Notebook (.ipynb) размером 265 КБ. Подходит для реализации на Windows, MacOS, Linux на базе интегрированных с ОС графических пользовательских интерфейсов (GUI). 
+Программа написана на языке программирования Python и включает архив файлов формата Jupyter Notebook (.ipynb) размером 266 КБ. Подходит для реализации на Windows, MacOS, Linux на базе интегрированных с ОС графических пользовательских интерфейсов (GUI). 
 
 ### Описание файлов .ipynb-files:
 * `"0. Выгрузка данных о статьях авторов.ipynb"` - В этом файле производится выгрузка данных о статьях конкретных авторов на eLibrary через сервис API Elibrary 011 (не используется напрямую в программе, но может быть полезным);
@@ -25,7 +25,7 @@ In addition to the work performed within the framework of the project, a special
 ## "Bib-eLib" program for collecting and processing bibliographic data in Russian from the electronic library eLibrary
 The Bib-eLib program allows you to upload an array of data on scientific publications through the API of the electronic library eLibrary, carry out their preliminary processing, solve the problem of disambiguation of authors of publications, analyze the final data array and visualize them, and create a network of links between scientific publications and their authors in a format for further processing in the Pajek program.
 
-The program is written in the Python programming language and includes a 265 KB Jupyter Notebook (.ipynb) file archive. Suitable for implementation on Windows, MacOS, Linux based on OS-integrated graphical user interfaces (GUI).
+The program is written in the Python programming language and includes a 266 KB Jupyter Notebook (.ipynb) file archive. Suitable for implementation on Windows, MacOS, Linux based on OS-integrated graphical user interfaces (GUI).
 
 ### Description of .ipynb-files:
 * `"0. Выгрузка данных о статьях авторов.ipynb"` - This file uploads data about articles by specific authors via the Elibrary 011 API service (is not used in the program, but can be useful);
